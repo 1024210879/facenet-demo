@@ -9,6 +9,8 @@ win10，python3.6.3
 
 tensorflow、scipy、scikit-learn、opencv-python、h5py、matplotlib、Pillow、requests、psutil
 
+运行bat_init_env.bat安装所需要的库
+
 ## 数据准备：
 
 ① lfw数据集bd云：链接：https://pan.baidu.com/s/1mnr8WCCVCb5wrwFaH_q2UA 
