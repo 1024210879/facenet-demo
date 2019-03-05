@@ -4,7 +4,7 @@
 
 ①lfw数据集（lfw），bdyun下载：
 
-https://pan.baidu.com/s/1mnr8WCCVCb5wrwFaH_q2UA 
+链接：https://pan.baidu.com/s/1mnr8WCCVCb5wrwFaH_q2UA 
 
 提取码：vgs6 
 
