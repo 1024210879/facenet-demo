@@ -10,7 +10,7 @@
 
 存放于 facenet/data
 
-![image text](https://github.com/1024210879/facenet-demo/tree/master/data/images/path_lfw.jpg)
+![image](https://github.com/1024210879/facenet-demo/tree/master/data/images/path_lfw.jpg)
 
 ②facenet预训练权重（20170512-110547.pb），bdyun下载：
 
@@ -20,7 +20,7 @@
 
 存放于 facenet/weight
 
-![image text](https://github.com/1024210879/facenet-demo/tree/master/data/images/path_pb.jpg)
+![image](https://github.com/1024210879/facenet-demo/tree/master/data/images/path_pb.jpg)
 
 ③facenet预训练pkl文件（classifier.pkl）bdyun下载：
 
@@ -30,7 +30,7 @@
 
 存放于 facenet/weight
 
-![image text](https://github.com/1024210879/facenet-demo/tree/master/data/images/path_pkl.jpg)
+![image](https://github.com/1024210879/facenet-demo/tree/master/data/images/path_pkl.jpg)
 
 ## 运行环境
 
