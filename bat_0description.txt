@@ -1,0 +1,11 @@
+bat_align_dataset_mtcnn.bat 数据集人脸图片->检测人脸->人脸框调整大小
+bat_classifier_mode_classify.bat 分类模式
+bat_classifier_mode_train.bat 训练模式生成分类的.pkl文件
+bat_cluster.bat 一个文件夹里的图片进行人脸聚类
+bat_compare.bat 两张人脸图对比得欧氏距离
+bat_detect_face_camera.bat 打开摄像头检测人脸
+bat_detect_face_images.bat 检测一张静态图人脸
+bat_init_env.bat 下载python依赖库
+bat_predict.bat 预测一张照片是谁
+bat_train_tripletloss.bat 训练用tripletloss方法
+bat_validate_on_lfw.bat 测试数据集正确率

@@ -1,0 +1,43 @@
+一、主要函数
+
+align/ ：用于人脸检测与人脸对齐的神经网络
+
+facenet ：用于人脸映射的神经网络
+
+util/plot_learning_curves.m:这是用来在训练softmax模型的时候用matlab显示训练过程的程序
+
+二、facenet/contributed/相关函数：
+
+1、基于mtcnn与facenet的人脸聚类
+
+代码：facenet/contributed/cluster.py（facenet/contributed/clustering.py实现了相似的功能，只是没有mtcnn进行检测这一步）
+
+主要功能：
+
+① 使用mtcnn进行人脸检测并对齐与裁剪
+
+② 对裁剪的人脸使用facenet进行embedding
+
+③ 对embedding的特征向量使用欧式距离进行聚类
+
+2、基于mtcnn与facenet的人脸识别（输入单张图片判断这人是谁）
+
+代码：facenet/contributed/predict.py
+
+主要功能：
+
+① 使用mtcnn进行人脸检测并对齐与裁剪
+
+② 对裁剪的人脸使用facenet进行embedding
+
+③ 执行predict.py进行人脸识别（需要训练好的svm模型）
+
+3、以numpy数组的形式输出人脸聚类和图像标签
+
+代码：facenet/contributed/export_embeddings.py
+
+主要功能：
+
+① 需要对数据进行对齐与裁剪做为输入数据
+
+② 输出embeddings.npy；labels.npy；label_strings.npy
