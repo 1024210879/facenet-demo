@@ -8,17 +8,23 @@
 
 提取码：vgs6 
 
+存放于 facenet/data
+
 ②facenet预训练权重（20170512-110547.pb），bdyun下载：
 
 链接：https://pan.baidu.com/s/1Ejp-n_h5wC9hvB7aDojf5A 
 
 提取码：l76t 
 
+存放于 facenet/weight
+
 ③facenet预训练pkl文件（classifier.pkl）bdyun下载：
 
 链接：https://pan.baidu.com/s/1rZNGK36sKuAA9dtuhpHIAg 
 
 提取码：ic5o 
+
+存放于 facenet/weight
 
 ## 运行环境
 
