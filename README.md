@@ -11,14 +11,23 @@ tensorflow、scipy、scikit-learn、opencv-python、h5py、matplotlib、Pillow�
 
 ## 数据准备：
 
-① lfw数据集bd云：链接：https://pan.baidu.com/s/1mnr8WCCVCb5wrwFaH_q2UA 提取码：vgs6 
-  存放路径：facenet/data/lfw
+① lfw数据集bd云：链接：https://pan.baidu.com/s/1mnr8WCCVCb5wrwFaH_q2UA 
 
-② 预训练模型bd云：https://pan.baidu.com/s/1Ejp-n_h5wC9hvB7aDojf5A 提取码：l76t
-  存放路径：facenet/weight
+提取码：vgs6 
+  
+存放路径：facenet/data/lfw
 
-③ 预训练.pkl文件bd云：https://pan.baidu.com/s/1rZNGK36sKuAA9dtuhpHIAg 提取码：ic5o
-  存放路径：facenet/weight
+② 预训练模型bd云：https://pan.baidu.com/s/1Ejp-n_h5wC9hvB7aDojf5A 
+
+提取码：l76t
+
+存放路径：facenet/weight
+
+③ 预训练.pkl文件bd云：https://pan.baidu.com/s/1rZNGK36sKuAA9dtuhpHIAg 
+
+提取码：ic5o
+
+存放路径：facenet/weight
 
 ## demo使用
 
