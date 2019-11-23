@@ -14,9 +14,9 @@
 
 ②facenet预训练权重（20170512-110547.pb），bdyun下载：
 
-链接：https://pan.baidu.com/s/1Ejp-n_h5wC9hvB7aDojf5A 
+链接：https://pan.baidu.com/s/1AQav9oq1dR8UVLOcTOlVAg
 
-提取码：l76t 
+提取码：bajv
 
 存放于 facenet/weight
 
@@ -24,9 +24,9 @@
 
 ③facenet预训练pkl文件（classifier.pkl）bdyun下载：
 
-链接：https://pan.baidu.com/s/1rZNGK36sKuAA9dtuhpHIAg 
+链接：https://pan.baidu.com/s/1uMn-Xy8UPuV_Jn2TTE9Lpg
 
-提取码：ic5o 
+提取码：b5c9
 
 存放于 facenet/weight
 
