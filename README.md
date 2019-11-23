@@ -4,9 +4,9 @@
 
 ①lfw数据集（lfw），bdyun下载：
 
-链接：https://pan.baidu.com/s/1mnr8WCCVCb5wrwFaH_q2UA 
+链接：https://pan.baidu.com/s/13ez4UmALgQfht1bil5uZdQ
 
-提取码：vgs6 
+提取码：59r7 
 
 存放于 facenet/data
 
