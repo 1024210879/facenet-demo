@@ -4,9 +4,9 @@
 
 ①lfw数据集（lfw），bdyun下载：
 
-链接：https://pan.baidu.com/s/13ez4UmALgQfht1bil5uZdQ
+链接：https://pan.baidu.com/s/1b9gLUEK8NqEiKGzkv0z26Q
 
-提取码：59r7 
+提取码：2mhn 
 
 存放于 facenet/data
 
@@ -14,9 +14,9 @@
 
 ②facenet预训练权重（20170512-110547.pb），bdyun下载：
 
-链接：https://pan.baidu.com/s/1AQav9oq1dR8UVLOcTOlVAg
+链接：https://pan.baidu.com/s/1iJjb_45czF5v_cE4uSl24g
 
-提取码：bajv
+提取码：iqhm
 
 存放于 facenet/weight
 
@@ -24,9 +24,9 @@
 
 ③facenet预训练pkl文件（classifier.pkl）bdyun下载：
 
-链接：https://pan.baidu.com/s/1uMn-Xy8UPuV_Jn2TTE9Lpg
+链接：https://pan.baidu.com/s/1TiiRBWxX8a0Kc5ciahmRxg
 
-提取码：b5c9
+提取码：oos2
 
 存放于 facenet/weight
 
